@@ -1,7 +1,7 @@
 streamlit==1.23.1
 plotly==5.15.0
 pandas==1.4.3
-numpy==1.23.1
+numpy==1.23.4
 folium==0.14.0
 matplotlib==3.5.3
 haversine==2.7.0
