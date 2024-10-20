@@ -142,7 +142,7 @@ https://www.kaggle.com/datasets/gauravmalik26/food-delivery-dataset? resource=do
 
 Painel online, hospedado em Cloud e disponível para acesso em qualquer dispositivo conectado à internet. 
 
-O painel pode ser acessado através desse link: https://project-la-place-company.streamlit.app/  https://wagnersobrinho-project-la-place-company.streamlit.app/ 
+O painel pode ser acessado através desse link: https://wagnersobrinho-project-la-place-company.streamlit.app/ 
 
   
 
