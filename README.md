@@ -10,6 +10,7 @@ Através desse aplicativo, é possível realizar o pedido de uma refeição, em 
 
 A empresa possui um modelo de negócio chamado Marketplace, que faz o intermédio do negócio entre três clientes principais: Restaurantes, entregadores e pessoas compradoras e gera muitos dados sobre entregas, tipos de pedidos, condições climáticas, avaliação dos entregadores e etc.  
 
+
      
 
 ## O Desafio 
@@ -40,7 +41,8 @@ O CEO também pediu que fosse gerado dashboards que permitisse que ele visualiza
   
 O meu primeiro objetivo como Cientista de Dados foi criar um conjunto de gráficos e/ou tabelas que exibam essas métricas e criar os dashboards solicitados pelo CEO, utilizando os dados que a La Place possuía. 
 
-         
+
+	 
  
 
 ## Premissas do Dashboard: 
